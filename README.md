@@ -17,7 +17,10 @@
 
 ## Hosting
 1. **Link Repo to Vercel**
-2. **Set These Evironment Variables:**
+2. **Create a Free Upstash Redis Instance**
+   * Create a Redis database
+   * Copy ```REST URL``` and ```Auth token```
+3. **Set These Evironment Variables:**
    * ```DISCORD_BOT_TOKEN```
    * ```TARGET_CHANNEL_ID```
    * ```UPSTASH_REST_URL```
